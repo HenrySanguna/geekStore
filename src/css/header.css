@@ -1,0 +1,32 @@
+  .info-user {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 7px;
+    border-bottom: 1px solid #ccc;
+    background-color: #18aaff;
+  }
+
+  .icon-user {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .tabs {
+    cursor: pointer;
+  }
+
+  .log {
+    margin-bottom: 25px;
+    color: rgb(199, 31, 31);
+  }
+  
+  .cart-a {
+    display: flex;
+    justify-content: center;
+  }
+  

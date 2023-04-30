@@ -1,0 +1,63 @@
+.ant-space-align-center {
+  align-items: end;
+}
+
+.carousel{
+  background-color: #041d4b48;
+  padding-left: 24px;
+  padding-right: 24px;
+  margin: 0 auto;
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  line-height: auto;
+  background: #041d4bbd;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  padding-top: 20px;
+  color: #fff;
+}
+
+.ant-carousel .slick-slide img {
+  width: 475px;
+  height: 500px;
+  margin: auto;
+}
+
+.ant-carousel .slick-dots li.slick-active {
+  padding-bottom: 15px;
+}
+
+.products {
+  padding-left: 20px;
+}
+
+.ant-card-cover img{
+  height: 250px;
+}
+
+.ant-card-meta-title{
+  text-align: center;
+  font-size: 15px;
+}
+
+.ant-card-meta-description {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1d71ab;
+}
+
+.ant-modal-content {
+  width: 590px;
+}
+
+.ant-modal-confirm .ant-modal-confirm-btns {
+  margin-top: 0;
+}
