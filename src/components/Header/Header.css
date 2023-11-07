@@ -1,0 +1,58 @@
+  .info-user {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Header {
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    left: 0;
+    padding: .5rem .5rem;
+    background-color: #123c5e;
+  }
+
+  .Header.Flex-container {
+    width: 100%;
+    align-items: center;
+  }
+
+  .Header-h1{
+    margin-bottom: 0 !important;
+  }
+
+  .Header-img {
+    width: 5.5rem;
+  }
+  .Header-username{
+    margin: .5rem;
+  }
+  .Header-username-span{
+    font-size: 1.3rem;
+    font-weight: var(--font-bold);
+  }
+
+  .Header-btn-ingresar{
+    margin-right: .5rem;
+  }
+
+  .icon-user {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .tabs {
+    cursor: pointer;
+  }
+
+  .cart-a {
+    display: flex;
+    justify-content: center;
+  }
+
+  @media screen and (min-width: 768x) {}
+
+  @media screen and (min-width: 992x) {}
+
+  @media screen and (min-width: 1280px) {}
